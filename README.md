@@ -1,4 +1,4 @@
-# Mini_Projet_Math_For_Data_Science
+# Project_Math_For_Data_Science
 
 ## Objective
 
