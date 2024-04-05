@@ -1,4 +1,4 @@
-# Project_Math_For_Data_Science
+# Math_For_Data_Science_M1_Project
 
 ## Objective
 
